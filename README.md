@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Annycah Libunap</h1>
+<h1 align="center">Hi 👋, I'm Annycah Libunao</h1>
 <h3 align="center">Aspiring Full Stack Developer and Software Engineering student at the University of Waikato, NZ</h3>
 
 
