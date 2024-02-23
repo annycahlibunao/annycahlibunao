@@ -8,7 +8,7 @@
 
 - 📍 Goals: learn backend development and secure an internship
 
-- 📫 How to reach me (DM): annycahlibunao08@gmail.com
+- 📫 How to reach me: annycahlibunao08@gmail.com
 
 - ⚡ Fun fact: I wake up at 4am
 
