@@ -2,15 +2,15 @@
 <h3 align="center">Aspiring Full Stack Developer and Software Engineering student at the University of Waikato, NZ</h3>
 
 
-- 🔭 I’m currently working on my personal Portfolio
+- 🔭 I’m currently working on University studies and projects
 
-- 🌱 I’m currently learning Javascript and React
+- 🌱 I’m currently learning Java, SQL, and JavaScript
 
-- 📍 Goals: learn backend development and secure an internship
+- 📍 Goals: learn backend development and secure a good internship
 
 - 📫 How to reach me: annycahlibunao08@gmail.com
 
-- ⚡ Fun fact: I wake up at 4am
+- ⚡ Fun fact: I'm very good with directions
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
