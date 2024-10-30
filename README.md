@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on University studies and projects
 
-- 🌱 I’m currently learning Java, HTML, and CSS
+- 🌱 I’m currently learning Java, HTML, CSS, JavaScript, PHP, and MySQL
 
-- 📍 Goals: learn backend development and secure an internship
+- 📍 Goals: complete my side project VerseInMind 
 
 - 📫 How to reach me: annycahlibunao08@gmail.com
 
